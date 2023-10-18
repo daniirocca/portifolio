@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/daniirocca/portifolio/main/paginavisual.png)
 
-### Acesse o projeto em: https://portifolio-three-theta-21.vercel.app/about.html
+### Acesse o projeto em: https://portifolio-three-theta-21.vercel.app/index.html
 
 ## Ferramentas utilizadas:
 
