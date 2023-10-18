@@ -1,10 +1,8 @@
-```
-
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
 ![](https://raw.githubusercontent.com/daniirocca/portifolio/main/paginavisual.png)
 
-### ACESSE O PROJETO: https://portifolio-three-theta-21.vercel.app/about.html
+### Acesse o projeto em: https://portifolio-three-theta-21.vercel.app/about.html
 
 ## Ferramentas utilizadas:
 
@@ -20,4 +18,3 @@
 
 ### Linkedin: https://www.linkedin.com/in/daniirocca/
 
-```
