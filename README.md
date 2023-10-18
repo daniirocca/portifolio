@@ -2,7 +2,7 @@
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://github.com/daniirocca/portifolio/blob/main/paginavisual.png) 
+![](https://raw.githubusercontent.com/daniirocca/portifolio/main/paginavisual.png)
 
 ## Ferramentas utilizadas:
 
